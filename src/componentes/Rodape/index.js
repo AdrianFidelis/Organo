@@ -27,7 +27,7 @@ const Rodape = () => {
        </section>
        <section>
         <p>
-        Desenvolvido por Adrian no curso da Alura.
+            Desenvolvido por Alura.
         </p>
        </section>
     </footer>)
